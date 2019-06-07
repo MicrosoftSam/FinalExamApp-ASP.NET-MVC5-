@@ -1,0 +1,720 @@
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\ApplicationInsights.config
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\AlgebraApp1.1.dll.config
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\AlgebraApp1.1.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\AlgebraApp1.1.pdb
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\csc.exe
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\csc.exe.config
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\csc.rsp
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\csi.exe
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\csi.exe.config
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\csi.rsp
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.AppContext.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Collections.Immutable.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Console.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Diagnostics.Process.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.IO.Compression.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.IO.FileSystem.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.IO.Pipes.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Reflection.Metadata.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.AccessControl.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.Claims.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Threading.Thread.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.ValueTuple.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Xml.XPath.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\vbc.exe
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\vbc.exe.config
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\vbc.rsp
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\VBCSCompiler.exe
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\VBCSCompiler.exe.config
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Antlr3.Runtime.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\EntityFramework.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\EntityFramework.SqlServer.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.DependencyCollector.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.Web.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.WindowsServer.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.ApplicationInsights.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Google.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Web.Infrastructure.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Newtonsoft.Json.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Owin.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Helpers.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Mvc.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Optimization.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Razor.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.WebPages.Deployment.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.WebPages.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.WebPages.Razor.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\WebGrease.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Helpers.xml
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Mvc.xml
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Optimization.xml
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Razor.xml
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.WebPages.xml
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.WebPages.Deployment.xml
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.WebPages.Razor.xml
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Antlr3.Runtime.pdb
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Newtonsoft.Json.xml
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\EntityFramework.xml
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\EntityFramework.SqlServer.xml
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.xml
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.xml
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Google.xml
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.ApplicationInsights.xml
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.DependencyCollector.xml
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.WindowsServer.xml
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.Web.xml
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\obj\Debug\AlgebraApp1.1.csprojResolveAssemblyReference.cache
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\obj\Debug\AlgebraApp1.1.csproj.CoreCompileInputs.cache
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\obj\Debug\AlgebraApp1.1.csproj.CopyComplete
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\obj\Debug\AlgebraApp1.1.dll
+D:\CS\AlgebraApp1.1\AlgebraApp1.1\obj\Debug\AlgebraApp1.1.pdb
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\ApplicationInsights.config
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\AlgebraApp1.1.dll.config
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\AlgebraApp1.1.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\AlgebraApp1.1.pdb
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\csc.exe
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\csc.exe.config
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\csc.rsp
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\csi.exe
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\csi.exe.config
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\csi.rsp
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.AppContext.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Collections.Immutable.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Console.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Diagnostics.Process.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.IO.Compression.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.IO.FileSystem.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.IO.Pipes.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Reflection.Metadata.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.AccessControl.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.Claims.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Threading.Thread.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.ValueTuple.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Xml.XPath.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\vbc.exe
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\vbc.exe.config
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\vbc.rsp
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\VBCSCompiler.exe
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\VBCSCompiler.exe.config
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Antlr3.Runtime.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\EntityFramework.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\EntityFramework.SqlServer.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.DependencyCollector.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.Web.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.WindowsServer.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.ApplicationInsights.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Google.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Web.Infrastructure.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Newtonsoft.Json.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Owin.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Helpers.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Mvc.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Optimization.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Razor.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.WebPages.Deployment.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.WebPages.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.WebPages.Razor.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\WebGrease.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Helpers.xml
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Mvc.xml
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Optimization.xml
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Razor.xml
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.WebPages.xml
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.WebPages.Deployment.xml
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.WebPages.Razor.xml
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Antlr3.Runtime.pdb
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Newtonsoft.Json.xml
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\EntityFramework.xml
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\EntityFramework.SqlServer.xml
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.xml
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.xml
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Google.xml
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.ApplicationInsights.xml
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.DependencyCollector.xml
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.WindowsServer.xml
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.Web.xml
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\obj\Debug\AlgebraApp1.1.csprojAssemblyReference.cache
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\obj\Debug\AlgebraApp1.1.csproj.CoreCompileInputs.cache
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\obj\Debug\AlgebraApp1.1.csproj.CopyComplete
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\obj\Debug\AlgebraApp1.1.dll
+D:\C#\ASP.NET\AlgebraApp1.1\AlgebraApp1.1\obj\Debug\AlgebraApp1.1.pdb
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\ApplicationInsights.config
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\AlgebraApp1.1.dll.config
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\AlgebraApp1.1.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\AlgebraApp1.1.pdb
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\csc.exe
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\csc.exe.config
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\csc.rsp
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\csi.exe
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\csi.exe.config
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\csi.rsp
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.AppContext.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Collections.Immutable.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Console.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Diagnostics.Process.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.IO.Compression.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.IO.FileSystem.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.IO.Pipes.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Reflection.Metadata.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.AccessControl.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.Claims.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Threading.Thread.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.ValueTuple.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Xml.XPath.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\vbc.exe
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\vbc.exe.config
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\vbc.rsp
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\VBCSCompiler.exe
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\VBCSCompiler.exe.config
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Antlr3.Runtime.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\EntityFramework.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\EntityFramework.SqlServer.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.DependencyCollector.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.Web.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.WindowsServer.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.ApplicationInsights.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Google.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Web.Infrastructure.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Newtonsoft.Json.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Owin.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Helpers.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Mvc.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Optimization.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Razor.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.WebPages.Deployment.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.WebPages.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.WebPages.Razor.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\WebGrease.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Helpers.xml
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Mvc.xml
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Optimization.xml
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Razor.xml
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.WebPages.xml
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.WebPages.Deployment.xml
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.WebPages.Razor.xml
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Antlr3.Runtime.pdb
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Newtonsoft.Json.xml
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\EntityFramework.xml
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\EntityFramework.SqlServer.xml
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.xml
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.xml
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Google.xml
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.ApplicationInsights.xml
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.DependencyCollector.xml
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.WindowsServer.xml
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.Web.xml
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\obj\Debug\AlgebraApp1.1.csprojAssemblyReference.cache
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\obj\Debug\AlgebraApp1.1.csproj.CoreCompileInputs.cache
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\obj\Debug\AlgebraApp1.1.csproj.CopyComplete
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\obj\Debug\AlgebraApp1.1.dll
+D:\C#\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\obj\Debug\AlgebraApp1.1.pdb
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\ApplicationInsights.config
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\AlgebraApp1.1.dll.config
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\AlgebraApp1.1.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\AlgebraApp1.1.pdb
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\csc.exe
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\csc.exe.config
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\csc.rsp
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\csi.exe
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\csi.exe.config
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\csi.rsp
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.AppContext.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Collections.Immutable.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Console.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Diagnostics.Process.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.IO.Compression.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.IO.FileSystem.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.IO.Pipes.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Reflection.Metadata.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.AccessControl.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.Claims.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Threading.Thread.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.ValueTuple.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Xml.XPath.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\vbc.exe
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\vbc.exe.config
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\vbc.rsp
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\VBCSCompiler.exe
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\VBCSCompiler.exe.config
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Antlr3.Runtime.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\EntityFramework.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\EntityFramework.SqlServer.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.DependencyCollector.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.Web.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.WindowsServer.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.ApplicationInsights.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Google.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Web.Infrastructure.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Newtonsoft.Json.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Owin.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Helpers.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Mvc.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Optimization.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Razor.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.WebPages.Deployment.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.WebPages.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.WebPages.Razor.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\WebGrease.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Helpers.xml
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Mvc.xml
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Optimization.xml
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Razor.xml
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.WebPages.xml
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.WebPages.Deployment.xml
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.WebPages.Razor.xml
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Antlr3.Runtime.pdb
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Newtonsoft.Json.xml
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\EntityFramework.xml
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\EntityFramework.SqlServer.xml
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.xml
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.xml
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Google.xml
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.ApplicationInsights.xml
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.DependencyCollector.xml
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.WindowsServer.xml
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.Web.xml
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\obj\Debug\AlgebraApp1.1.csprojResolveAssemblyReference.cache
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\obj\Debug\AlgebraApp1.1.csproj.CoreCompileInputs.cache
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\obj\Debug\AlgebraApp1.1.csproj.CopyComplete
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\obj\Debug\AlgebraApp1.1.dll
+D:\CS\ASP.NET_AuthTest\AlgebraApp1.1\AlgebraApp1.1\obj\Debug\AlgebraApp1.1.pdb
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\ApplicationInsights.config
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\AlgebraApp1.1.dll.config
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\AlgebraApp1.1.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\AlgebraApp1.1.pdb
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\csc.exe
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\csc.exe.config
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\csc.rsp
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\csi.exe
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\csi.exe.config
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\csi.rsp
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.AppContext.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Collections.Immutable.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Console.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Diagnostics.Process.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.IO.Compression.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.IO.FileSystem.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.IO.Pipes.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Reflection.Metadata.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.AccessControl.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.Claims.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Threading.Thread.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.ValueTuple.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Xml.XPath.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\vbc.exe
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\vbc.exe.config
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\vbc.rsp
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\VBCSCompiler.exe
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\roslyn\VBCSCompiler.exe.config
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Antlr3.Runtime.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\EntityFramework.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\EntityFramework.SqlServer.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.DependencyCollector.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.Web.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.WindowsServer.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.ApplicationInsights.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Google.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Web.Infrastructure.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Newtonsoft.Json.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Owin.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Helpers.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Mvc.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Optimization.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Razor.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.WebPages.Deployment.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.WebPages.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.WebPages.Razor.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\WebGrease.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Helpers.xml
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Mvc.xml
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Optimization.xml
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.Razor.xml
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.WebPages.xml
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.WebPages.Deployment.xml
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\System.Web.WebPages.Razor.xml
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Antlr3.Runtime.pdb
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Newtonsoft.Json.xml
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\EntityFramework.xml
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\EntityFramework.SqlServer.xml
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.xml
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.xml
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Google.xml
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.ApplicationInsights.xml
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.DependencyCollector.xml
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.WindowsServer.xml
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\bin\Microsoft.AI.Web.xml
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\obj\Debug\AlgebraApp1.1.csprojAssemblyReference.cache
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\obj\Debug\AlgebraApp1.1.csproj.CoreCompileInputs.cache
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\obj\Debug\AlgebraApp1.1.csproj.CopyComplete
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\obj\Debug\AlgebraApp1.1.dll
+D:\C#\Programer Internet aplikacija - ASP.NET MVC C#_Seminarski rad - Igor Novak - Jembri\Aplikacija\AlgebraApp1.1\AlgebraApp1.1\obj\Debug\AlgebraApp1.1.pdb
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\ApplicationInsights.config
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\AlgebraApp1.1.dll.config
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\AlgebraApp1.1.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\AlgebraApp1.1.pdb
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\csc.exe
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\csc.exe.config
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\csc.rsp
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\csi.exe
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\csi.exe.config
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\csi.rsp
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\System.AppContext.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\System.Collections.Immutable.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\System.Console.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\System.Diagnostics.Process.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\System.IO.Compression.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\System.IO.FileSystem.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\System.IO.Pipes.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\System.Reflection.Metadata.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\System.Security.AccessControl.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\System.Security.Claims.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\System.Threading.Thread.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\System.ValueTuple.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\System.Xml.XPath.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\vbc.exe
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\vbc.exe.config
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\vbc.rsp
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\VBCSCompiler.exe
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\roslyn\VBCSCompiler.exe.config
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Antlr3.Runtime.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\EntityFramework.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\EntityFramework.SqlServer.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.AI.DependencyCollector.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.AI.Web.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.AI.WindowsServer.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.ApplicationInsights.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.Owin.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.Owin.Security.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.Owin.Security.Google.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.Web.Infrastructure.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Newtonsoft.Json.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Owin.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\System.Web.Helpers.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\System.Web.Mvc.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\System.Web.Optimization.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\System.Web.Razor.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\System.Web.WebPages.Deployment.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\System.Web.WebPages.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\System.Web.WebPages.Razor.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\WebGrease.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\System.Web.Helpers.xml
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\System.Web.Mvc.xml
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\System.Web.Optimization.xml
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\System.Web.Razor.xml
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\System.Web.WebPages.xml
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\System.Web.WebPages.Deployment.xml
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\System.Web.WebPages.Razor.xml
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Antlr3.Runtime.pdb
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Newtonsoft.Json.xml
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\EntityFramework.xml
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\EntityFramework.SqlServer.xml
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.Owin.xml
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.Owin.Security.xml
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.Owin.Security.Google.xml
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.ApplicationInsights.xml
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.AI.DependencyCollector.xml
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.AI.WindowsServer.xml
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\bin\Microsoft.AI.Web.xml
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\obj\Debug\AlgebraApp1.1.csprojAssemblyReference.cache
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\obj\Debug\AlgebraApp1.1.csproj.CoreCompileInputs.cache
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\obj\Debug\AlgebraApp1.1.csproj.CopyComplete
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\obj\Debug\AlgebraApp1.1.dll
+D:\C#\FinalExamApp(ASP.NET MVC5 and MS SQL)\App\AlgebraApp1.1\obj\Debug\AlgebraApp1.1.pdb

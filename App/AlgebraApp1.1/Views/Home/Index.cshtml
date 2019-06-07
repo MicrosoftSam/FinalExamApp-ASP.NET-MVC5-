@@ -1,0 +1,59 @@
+﻿@model IEnumerable<AlgebraApp1._1.Models.Course>
+
+@{
+    ViewBag.Title = "Predbilježi se za neki od seminara";
+}
+
+<h2>Predbilježba</h2>
+<h3>Predbilježi se za neki od seminara</h3>
+
+<div>
+    @using (Html.BeginForm())
+    {
+        <p>
+            Pretraživanje: @Html.TextBox("SearchString")
+            <input type="submit" value="Search" />
+        </p>
+    }
+</div>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CourseName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Date)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Filled)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Filled)
+            </td>
+            <td>
+                @Html.ActionLink("Odaberi", "ChoseCourse", new { id = item.IdCourse }) 
+
+            </td>
+        </tr>
+    }
+
+</table>

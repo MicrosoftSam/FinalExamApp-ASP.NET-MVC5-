@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AlgebraAppDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Course">
+    <Key>
+      <PropertyRef Name="IdCourse" />
+    </Key>
+    <Property Name="IdCourse" Type="int" Nullable="false" />
+    <Property Name="CourseName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Description" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="Date" Type="datetime" Nullable="false" />
+    <Property Name="Filled" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CourseSignUp">
+    <Key>
+      <PropertyRef Name="IdCourseSignUp" />
+    </Key>
+    <Property Name="IdCourseSignUp" Type="int" Nullable="false" />
+    <Property Name="Date" Type="datetime" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="LastName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Address" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Telephone" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="IdCourse" Type="int" Nullable="false" />
+    <Property Name="Status" Type="bit" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__Predbilje__IdSem__1273C1CD">
+    <End Role="Course" Type="Self.Course" Multiplicity="1" />
+    <End Role="CourseSignUp" Type="Self.CourseSignUp" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Course">
+        <PropertyRef Name="IdCourse" />
+      </Principal>
+      <Dependent Role="CourseSignUp">
+        <PropertyRef Name="IdCourse" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="AlgebraAppDBModelStoreContainer">
+    <EntitySet Name="Course" EntityType="Self.Course" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CourseSignUp" EntityType="Self.CourseSignUp" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Predbilje__IdSem__1273C1CD" Association="Self.FK__Predbilje__IdSem__1273C1CD">
+      <End Role="Course" EntitySet="Course" />
+      <End Role="CourseSignUp" EntitySet="CourseSignUp" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

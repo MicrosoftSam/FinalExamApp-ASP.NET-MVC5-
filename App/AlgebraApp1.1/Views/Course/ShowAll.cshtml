@@ -1,0 +1,68 @@
+﻿@model IEnumerable<AlgebraApp1._1.Models.Course>
+
+@{
+    ViewBag.Title = "Prikaz svih seminara";
+}
+
+<h2>Prikaz svih seminara</h2>
+
+<p>
+    @if (User.Identity.IsAuthenticated)
+    {
+        if (User.IsInRole("Admin") || User.IsInRole("Employee"))
+        {
+            @Html.ActionLink("Kreiraj novi seminar", "Create", "Course")
+            @Html.Raw("|")
+        }
+    }
+    @Html.ActionLink("Povratak na filtrirane seminare", "Index", "Course")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CourseName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Date)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Filled)
+        </th>
+        <th>
+            Broj polaznika
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CourseName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Date)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Filled)
+        </td>
+        <td>
+            @if (User.Identity.IsAuthenticated)
+            {
+                if (User.IsInRole("Admin") || User.IsInRole("Employee"))
+                {
+                    @Html.ActionLink("Uredi", "Edit", new { id = item.IdCourse })
+                    @Html.Raw("|")
+                    @Html.ActionLink("Izbriši", "Delete", new { id = item.IdCourse })
+                }
+            }
+        </td>
+    </tr>
+}
+
+</table>

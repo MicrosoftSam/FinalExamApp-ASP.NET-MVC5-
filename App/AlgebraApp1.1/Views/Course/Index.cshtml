@@ -1,0 +1,85 @@
+﻿@model IEnumerable<AlgebraApp1._1.Models.Course>
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h4>Prikaz nepopunjenih seminara</h4>
+    <div>
+        @using (Html.BeginForm())
+        {
+            <p>
+                Pretraživanje: @Html.TextBox("SearchString")
+                <input type="submit" value="Search" />
+            </p>
+        }
+    </div>
+    <p>
+        @Html.ActionLink("Prikaži sve", "ShowAll", "Course")
+    </p>
+    @if (User.Identity.IsAuthenticated)
+    {
+        if (User.IsInRole("Admin") || User.IsInRole("Employee"))
+        {
+            <p>
+                @Html.ActionLink("Novi Seminar", "Create")
+            </p>
+        }
+    }
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CourseName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Filled)
+            </th>
+            <th>
+               Broj polaznika
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CourseName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Filled)
+                </td>
+                <td>
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        if (User.IsInRole("Admin") || User.IsInRole("Employee"))
+                        {
+                            @Html.ActionLink("Uredi", "Edit", new { id = item.IdCourse })
+                            @Html.Raw("|")
+                            @Html.ActionLink("Izbriši", "Delete", new { id = item.IdCourse })
+                        }
+                    }
+                </td>
+            </tr>
+        }
+
+    </table>
+</body>
+</html>
